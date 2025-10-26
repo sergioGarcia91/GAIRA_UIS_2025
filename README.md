@@ -10,7 +10,7 @@
 - [Notebooks](#Notebooks)
 - [Talleres](#Talleres)
 - [Modelos 3D](#Modelos-3D)
-- :pray: [Agradecimientos](#Agradecimientos)
+- [Agradecimientos](#agradecimientos)
 
 ---
 
