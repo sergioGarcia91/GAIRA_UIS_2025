@@ -52,6 +52,8 @@ Su propósito es guiarte en el **entrenamiento, reentrenamiento e inferencia** d
 2. [02_GAIRA_Reentrenamiento_YOLOv8](https://github.com/sergioGarcia91/GAIRA_UIS_2025/blob/81bbca179677fc0b0c9b9cd826b4306f6cd4d8e0/02_GAIRA_Reentrenamiento_YOLOv8.ipynb):  Procedimiento para **entrenar**, **reentrenar** y **reanudar** un modelo YOLOv8 (fine-tuning y manejo de checkpoints).
 3. [03_GAIRA_Predecir_YOLOv8](https://github.com/sergioGarcia91/GAIRA_UIS_2025/blob/81bbca179677fc0b0c9b9cd826b4306f6cd4d8e0/03_GAIRA_Predecir_YOLOv8.ipynb): Inferencia para **clasificar imágenes** en **roca ígnea, sedimentaria o metamórfica** usando diferentes [modelos reentrenados](https://github.com/sergioGarcia91/GAIRA_UIS_2025/tree/81bbca179677fc0b0c9b9cd826b4306f6cd4d8e0/Modelos) de YOLOv8.
 
+> *Nota (uso local en tiempo real):* El script [`TipoRoca.py`](https://github.com/sergioGarcia91/GAIRA_UIS_2025/blob/498109fc148b63fd867c3dcb724738deeddc3cb1/TipoRoca.py) permite realizar inferencias en tiempo real con la cámara del PC usando los modelos YOLOv8 reentrenados del proyecto. Este script hace parte del trabajo de [García-Arias & Velandia (2025)](https://doi.org/10.24050/reia.v22i43.1813).
+
 ---
 
 ## Talleres
