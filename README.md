@@ -1,6 +1,8 @@
-# **GAIRA – propuesta ganadora INNOVATIC-2025 (UIS)**
+# **GAIRA – propuesta ganadora INNOVA-TIC 2025 (UIS)**
 
-<img src="https://github.com/sergioGarcia91/GAIRA_UIS_2025/blob/4a81918d410b502b79f58060ad5264dd98e5e373/GAIRA_2025_logo.png" alt="Logo GAIRA" width="500"/>
+<p align="center">
+<img src="https://github.com/sergioGarcia91/GAIRA_UIS_2025/blob/4a81918d410b502b79f58060ad5264dd98e5e373/GAIRA_2025_logo.png" alt="Logo GAIRA" width="300"/>
+</p>
 
 # Tabla de Contenido
 - [Autores y colaboradores](#Autores-y-colaboradores)
@@ -33,11 +35,15 @@ Durante la convocatoria interna [INNOVA-TIC 2025](https://convocatorias.uis.edu.
 
 > **Fortalecer el proceso de enseñanza-aprendizaje de la geología** mediante herramientas digitales basadas en inteligencia artificial, modelación 3D, realidad virtual y aumentada. Utilizadas como apoyo a la divulgación de conceptos geocientíficos complejos, facilitando su comprensión y promoviendo un aprendizaje autónomo, interactivo e inclusivo.
 
+Para potenciar GAIRA en el marco del Portafolio TIC 2025 de la UIS, la Vicerrectoría Académica entregó como [estímulo un visor Oculus Meta Quest 3](https://comunicaciones.uis.edu.co/uis-realizo-entrega-de-estimulos-dentro-de-la-convocatoria-ova-e-innova-tic-2025). Este equipo habilita la visualización inmersiva de los gemelos digitales publicados en Sketchfab, permitiendo que los estudiantes simulen trabajo de campo y clasificación de muestras en realidad virtual, mejorando la comprensión sin necesidad de desplazamientos.
+
 Este repositorio centraliza **notebooks**, **modelos de IA**, **recursos VR**, **material docente** y **scripts** utilizados/desarrollados en GAIRA.
 
+<p align="center">
 <img src="https://github.com/sergioGarcia91/GAIRA_UIS_2025/blob/a70558fd0d4194bbaeab8daab789410d7b4d40a7/Innovatic-eventos-TIC-ganadores-2025.jpeg" alt="Ganadores INNOVATIC 2025 UIS" width="500"/>
 <img src="https://github.com/sergioGarcia91/GAIRA_UIS_2025/blob/a70558fd0d4194bbaeab8daab789410d7b4d40a7/Geologia-profesores.jpeg" alt="Profesores GAIRA" width="500"/>
-
+<img src="https://github.com/sergioGarcia91/GAIRA_UIS_2025/blob/fb0ff217a742004930f6d6e84a66a65b7857f7ef/Entrega-de-equipos-Gaira.jpg" alt="Gafas GAIRA" width="500"/>
+</p>
 
 ---
 
@@ -77,8 +83,9 @@ Considerando la disponibilidad de muestras de roca de la [Escuela de Geología](
 - [Modelos 3D del terreno](https://sketchfab.com/EscgeoUIS/collections/modelos-3d-del-terreno-8e746843c16a4a2b9f2044974f291963)
 - [Modelos Digitales de Afloramiento](https://sketchfab.com/EscgeoUIS/collections/modelos-digitales-de-afloramiento-f4e4f6dfc968476ea4bf07b2b722acbd)
 
+<p align="center">
 <img src="https://github.com/sergioGarcia91/GAIRA_UIS_2025/blob/a70558fd0d4194bbaeab8daab789410d7b4d40a7/Sketchfab_Escuela_de_Geologia_UIS.png" alt="Perfil Sketchfab Escuela de Geología UIS" width="700"/>
-
+</p>
 ---
 
 
