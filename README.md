@@ -90,7 +90,8 @@ Considerando la disponibilidad de muestras de roca de la [Escuela de Geología](
 
 ---
 
-## Agradecimientos
+<a id="agradecimientos"></a>
+## :pray: Agradecimientos
 
 Agradecemos a la **Universidad Industrial de Santander (UIS)**, a la **Vicerrectoría Académica**, a la **Escuela de Geología** y a todas las personas que han hecho posible **GAIRA**. En especial, gracias por los estímulos otorgados en el marco del **Portafolio TIC 2025**, mencionados en las notas oficiales: [entrega de estímulos OVA e INNOVA-TIC 2025](https://comunicaciones.uis.edu.co/uis-realizo-entrega-de-estimulos-dentro-de-la-convocatoria-ova-e-innova-tic-2025) y [ganadores INNOVA-TIC 2025 y Eventos TIC](https://comunicaciones.uis.edu.co/conozca-los-ganadores-de-la-convocatoria-innova-tic-2025-y-eventos-tic).
 
