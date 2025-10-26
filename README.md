@@ -52,6 +52,12 @@ Su propósito es guiarte en el **entrenamiento, reentrenamiento e inferencia** d
 
 ## Talleres
 
+Se incluyen dos talleres introductorios (formato PDF) para complementar los notebooks y actividades prácticas.
+
+1. [Taller_GAIRA_Modelos_3D](https://github.com/sergioGarcia91/GAIRA_UIS_2025/blob/44e19f7e679fb271faf16303fe8c8ed57d226aa0/Taller_GAIRA_Modelos_3D.pdf): Introducción a MDT/MDE, carga y visualización en QGIS, generación de bloques-diagrama y flujo básico para publicar modelos 3D (Sketchfab). Incluye preguntas guía y ejercicios con datos de elevación.
+
+2. [Taller_GAIRA_YOLOv8](https://github.com/sergioGarcia91/GAIRA_UIS_2025/blob/44e19f7e679fb271faf16303fe8c8ed57d226aa0/Taller_GAIRA_YOLOv8.pdf): Análisis comparativo de modelos YOLOv8 (datasets, predicciones, limitaciones y mejoras), trabajo por equipos y entrega en PPT. Propone actividades de inferencia y discusión crítica sobre el uso de IA en geociencias.
+
 ---
 
 ## Modelos 3D
