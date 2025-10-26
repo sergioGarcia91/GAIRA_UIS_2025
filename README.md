@@ -5,6 +5,9 @@
 # Tabla de Contenido
 - [Autores y colaboradores](#Autores-y-colaboradores)
 - [Descripción](#Descripción)
+- [Notebooks](#Notebooks)
+- [Talleres](#Talleres)
+- [Modelos 3D](#Modelos-3D)
 
 ---
 
@@ -34,5 +37,25 @@ Este repositorio centraliza **notebooks**, **modelos de IA**, **recursos VR**, *
 
 ---
 
-## Contenidos del repositorio
+## Notebooks
+Se incluyen tres notebooks desarrollados en [Google Colaboratory](https://colab.research.google.com).
+
+Su propósito es guiarte en el **entrenamiento, reentrenamiento e inferencia** de modelos **YOLOv8** (framework [Ultralytics](https://docs.ultralytics.com/es/quickstart)) usando Python 3.
+
+> Al hacer clic en el icono ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) ubicado al inicio del Notebook, se abrirá el Notebook en Google Colaboratory.
+
+1. [01_GAIRA_Labelme2yolov8](https://github.com/sergioGarcia91/GAIRA_UIS_2025/blob/81bbca179677fc0b0c9b9cd826b4306f6cd4d8e0/01_GAIRA_Labelme2yolov8.ipynb): Flujo de trabajo para convertir anotaciones de imágenes hechas con [LabelMe](https://github.com/wkentaro/labelme) al formato requerido por [YOLOv8](https://docs.ultralytics.com/es/models/yolov8).
+2. [02_GAIRA_Reentrenamiento_YOLOv8](https://github.com/sergioGarcia91/GAIRA_UIS_2025/blob/81bbca179677fc0b0c9b9cd826b4306f6cd4d8e0/02_GAIRA_Reentrenamiento_YOLOv8.ipynb):  Procedimiento para **entrenar**, **reentrenar** y **reanudar** un modelo YOLOv8 (fine-tuning y manejo de checkpoints).
+3. [03_GAIRA_Predecir_YOLOv8](https://github.com/sergioGarcia91/GAIRA_UIS_2025/blob/81bbca179677fc0b0c9b9cd826b4306f6cd4d8e0/03_GAIRA_Predecir_YOLOv8.ipynb): Inferencia para **clasificar imágenes** en **roca ígnea, sedimentaria o metamórfica** usando diferentes [modelos reentrenados](https://github.com/sergioGarcia91/GAIRA_UIS_2025/tree/81bbca179677fc0b0c9b9cd826b4306f6cd4d8e0/Modelos) de YOLOv8.
+
+---
+
+## Talleres
+
+---
+
+## Modelos 3D
+
+---
+
 
