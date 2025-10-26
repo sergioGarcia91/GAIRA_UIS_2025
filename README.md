@@ -5,16 +5,16 @@
 </p>
 
 # Tabla de Contenido
-- [Autores y colaboradores](#Autores-y-colaboradores)
-- [Descripción](#Descripción)
-- [Notebooks](#Notebooks)
-- [Talleres](#Talleres)
-- [Modelos 3D](#Modelos-3D)
-- [Agradecimientos](#agradecimientos)
+- :busts_in_silhouette: [Autores y colaboradores](#autores_colaboradores)
+- :scroll: [Descripción](#descripcion)
+- :desktop_computer: [Notebooks](#notebooks)
+- :man_teacher: [Talleres](#talleres)
+- :mirror_ball: [Modelos 3D](#modelos_3d)
+- :pray: [Agradecimientos](#agradecimientos)
 
 ---
-
-## Autores y colaboradores
+<a id="autores_colaboradores"></a>
+## :busts_in_silhouette: Autores y colaboradores
 Autores del proyecto GAIRA
 - Francisco Alberto Velandia Patiño
 - Sergio Andrés García Arias
@@ -30,7 +30,8 @@ Profesionales que brindaron apoyo
 - César Enrique Llerena Betancour
 
 ---
-## Descripción
+<a id="descripcion"></a>
+## :scroll: Descripción
 
 Durante la convocatoria interna [INNOVA-TIC 2025](https://convocatorias.uis.edu.co/convocatoria-innova-tic-2025) , surge [GAIRA: Geología + Artificial Intelligence + Realidad Aumentada](https://comunicaciones.uis.edu.co/conozca-los-ganadores-de-la-convocatoria-innova-tic-2025-y-eventos-tic), cuyo objetivo es:
 
@@ -47,8 +48,8 @@ Este repositorio centraliza **notebooks**, **modelos de IA**, **recursos VR**, *
 </p>
 
 ---
-
-## Notebooks
+<a id="notebooks"></a>
+## :desktop_computer: Notebooks
 Se incluyen tres notebooks desarrollados en [Google Colaboratory](https://colab.research.google.com).
 
 Su propósito es guiarte en el **entrenamiento, reentrenamiento e inferencia** de modelos **YOLOv8** (framework [Ultralytics](https://docs.ultralytics.com/es/quickstart)) usando Python 3.
@@ -62,8 +63,8 @@ Su propósito es guiarte en el **entrenamiento, reentrenamiento e inferencia** d
 > *Nota (uso local en tiempo real):* El script [`TipoRoca.py`](https://github.com/sergioGarcia91/GAIRA_UIS_2025/blob/498109fc148b63fd867c3dcb724738deeddc3cb1/TipoRoca.py) permite realizar inferencias en tiempo real con la cámara del PC usando los modelos YOLOv8 reentrenados del proyecto. Este script hace parte del trabajo de [García-Arias & Velandia (2025)](https://doi.org/10.24050/reia.v22i43.1813).
 
 ---
-
-## Talleres
+<a id="talleres"></a>
+## :man_teacher: Talleres
 
 Se incluyen dos talleres introductorios (formato PDF) para complementar los notebooks y actividades prácticas.
 
@@ -73,7 +74,8 @@ Se incluyen dos talleres introductorios (formato PDF) para complementar los note
 
 ---
 
-## Modelos 3D
+<a id="modelos_3d"></a>
+## :mirror_ball: Modelos 3D
 
 Considerando la disponibilidad de muestras de roca de la [Escuela de Geología](https://geologia.uis.edu.co/eisi) de la UIS, se generaron **gemelos digitales** mediante la técnica de **fotogrametría**. Estos modelos están publicados en el **perfil de Sketchfab** de la Escuela de Geología: https://sketchfab.com/EscgeoUIS, donde se encuentran organizados en las siguientes colecciones:
 
