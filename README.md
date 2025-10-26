@@ -35,6 +35,10 @@ Durante la convocatoria interna [INNOVA-TIC 2025](https://convocatorias.uis.edu.
 
 Este repositorio centraliza **notebooks**, **modelos de IA**, **recursos VR**, **material docente** y **scripts** utilizados/desarrollados en GAIRA.
 
+<img src="https://github.com/sergioGarcia91/GAIRA_UIS_2025/blob/a70558fd0d4194bbaeab8daab789410d7b4d40a7/Innovatic-eventos-TIC-ganadores-2025.jpeg" alt="Ganadores INNOVATIC 2025 UIS" width="500"/>
+<img src="https://github.com/sergioGarcia91/GAIRA_UIS_2025/blob/a70558fd0d4194bbaeab8daab789410d7b4d40a7/Geologia-profesores.jpeg" alt="Profesores GAIRA" width="500"/>
+
+
 ---
 
 ## Notebooks
@@ -61,6 +65,17 @@ Se incluyen dos talleres introductorios (formato PDF) para complementar los note
 ---
 
 ## Modelos 3D
+
+Considerando la disponibilidad de muestras de roca de la [Escuela de Geología](https://geologia.uis.edu.co/eisi) de la UIS, se generaron **gemelos digitales** mediante la técnica de **fotogrametría**. Estos modelos están publicados en el **perfil de Sketchfab** de la Escuela de Geología: https://sketchfab.com/EscgeoUIS, donde se encuentran organizados en las siguientes colecciones:
+
+- [Colección General - Rocas Metamórficas](https://sketchfab.com/EscgeoUIS/collections/coleccion-general-rocas-metamorficas-20f35655e942416f826af26a88c4b33d)
+- [Colección General - Rocas Ígneas](https://sketchfab.com/EscgeoUIS/collections/coleccion-general-rocas-igneas-041eee88801c4adeaca944a83981fe10)
+- [Colección General - Fósiles](https://sketchfab.com/EscgeoUIS/collections/coleccion-general-fosiles-a9aa24af24734ba0b485a8efb7a07698)
+- [Colección General - Rocas Sedimentarias](https://sketchfab.com/EscgeoUIS/collections/coleccion-general-rocas-sedimentarias-ce4bd7733ba649a590e6d0fefc3c9d14)
+- [Modelos 3D del terreno](https://sketchfab.com/EscgeoUIS/collections/modelos-3d-del-terreno-8e746843c16a4a2b9f2044974f291963)
+- [Modelos Digitales de Afloramiento](https://sketchfab.com/EscgeoUIS/collections/modelos-digitales-de-afloramiento-f4e4f6dfc968476ea4bf07b2b722acbd)
+
+<img src="https://github.com/sergioGarcia91/GAIRA_UIS_2025/blob/a70558fd0d4194bbaeab8daab789410d7b4d40a7/Sketchfab_Escuela_de_Geologia_UIS.png" alt="Perfil Sketchfab Escuela de Geología UIS" width="700"/>
 
 ---
 
