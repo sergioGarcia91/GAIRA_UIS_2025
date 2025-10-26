@@ -40,9 +40,9 @@ Para potenciar GAIRA en el marco del Portafolio TIC 2025 de la UIS, la Vicerrect
 Este repositorio centraliza **notebooks**, **modelos de IA**, **recursos VR**, **material docente** y **scripts** utilizados/desarrollados en GAIRA.
 
 <p align="center">
-<img src="https://github.com/sergioGarcia91/GAIRA_UIS_2025/blob/a70558fd0d4194bbaeab8daab789410d7b4d40a7/Innovatic-eventos-TIC-ganadores-2025.jpeg" alt="Ganadores INNOVATIC 2025 UIS" width="500"/>
-<img src="https://github.com/sergioGarcia91/GAIRA_UIS_2025/blob/a70558fd0d4194bbaeab8daab789410d7b4d40a7/Geologia-profesores.jpeg" alt="Profesores GAIRA" width="500"/>
-<img src="https://github.com/sergioGarcia91/GAIRA_UIS_2025/blob/fb0ff217a742004930f6d6e84a66a65b7857f7ef/Entrega-de-equipos-Gaira.jpg" alt="Gafas GAIRA" width="500"/>
+<img src="https://github.com/sergioGarcia91/GAIRA_UIS_2025/blob/a70558fd0d4194bbaeab8daab789410d7b4d40a7/Innovatic-eventos-TIC-ganadores-2025.jpeg" alt="Ganadores INNOVATIC 2025 UIS" width="300"/>
+<img src="https://github.com/sergioGarcia91/GAIRA_UIS_2025/blob/a70558fd0d4194bbaeab8daab789410d7b4d40a7/Geologia-profesores.jpeg" alt="Profesores GAIRA" width="300"/>
+<img src="https://github.com/sergioGarcia91/GAIRA_UIS_2025/blob/fb0ff217a742004930f6d6e84a66a65b7857f7ef/Entrega-de-equipos-Gaira.jpg" alt="Gafas GAIRA" width="300"/>
 </p>
 
 ---
