@@ -1,7 +1,6 @@
-**GAIRA – propuesta ganadora INNOVATIC-2025 (UIS)**
+# **GAIRA – propuesta ganadora INNOVATIC-2025 (UIS)**
 
 <img src="https://github.com/sergioGarcia91/GAIRA_UIS_2025/blob/4a81918d410b502b79f58060ad5264dd98e5e373/GAIRA_2025_logo.png" alt="Logo GAIRA" width="500"/>
----
 
 ## Descripción
 
