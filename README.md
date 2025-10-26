@@ -10,6 +10,7 @@
 - [Notebooks](#Notebooks)
 - [Talleres](#Talleres)
 - [Modelos 3D](#Modelos-3D)
+- [:pray: Agradecimientos](Agradecimientos)
 
 ---
 
@@ -86,6 +87,14 @@ Considerando la disponibilidad de muestras de roca de la [Escuela de Geología](
 <p align="center">
 <img src="https://github.com/sergioGarcia91/GAIRA_UIS_2025/blob/a70558fd0d4194bbaeab8daab789410d7b4d40a7/Sketchfab_Escuela_de_Geologia_UIS.png" alt="Perfil Sketchfab Escuela de Geología UIS" width="700"/>
 </p>
+
 ---
+
+## :pray: Agradecimientos
+
+Agradecemos a la **Universidad Industrial de Santander (UIS)**, a la **Vicerrectoría Académica**, a la **Escuela de Geología** y a todas las personas que han hecho posible **GAIRA**. En especial, gracias por los estímulos otorgados en el marco del **Portafolio TIC 2025**, mencionados en las notas oficiales: [entrega de estímulos OVA e INNOVA-TIC 2025](https://comunicaciones.uis.edu.co/uis-realizo-entrega-de-estimulos-dentro-de-la-convocatoria-ova-e-innova-tic-2025) y [ganadores INNOVA-TIC 2025 y Eventos TIC](https://comunicaciones.uis.edu.co/conozca-los-ganadores-de-la-convocatoria-innova-tic-2025-y-eventos-tic).
+
+Invitamos a **docentes y grupos de la UIS** a participar en estas convocatorias y a **sumarse** al desarrollo de propuestas que fortalezcan la docencia, la investigación y la innovación en beneficio del territorio. ¡Construyamos juntos más proyectos de alto impacto! :rocket::handshake::seedling::chart_with_upwards_trend:
+
 
 
