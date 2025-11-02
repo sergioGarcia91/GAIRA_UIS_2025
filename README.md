@@ -68,9 +68,11 @@ Su propósito es guiarte en el **entrenamiento, reentrenamiento e inferencia** d
 
 Se incluyen dos talleres introductorios (formato PDF) para complementar los notebooks y actividades prácticas.
 
-1. [Taller_GAIRA_Modelos_3D](https://github.com/sergioGarcia91/GAIRA_UIS_2025/blob/44e19f7e679fb271faf16303fe8c8ed57d226aa0/Taller_GAIRA_Modelos_3D.pdf): Introducción a MDT/MDE, carga y visualización en QGIS, generación de bloques-diagrama y flujo básico para publicar modelos 3D (Sketchfab). Incluye preguntas guía y ejercicios con datos de elevación.
+1. [Taller_GAIRA_Modelos_3D](https://github.com/sergioGarcia91/GAIRA_UIS_2025/blob/a2e59634daeb38f908f73b78beaf9ead37120c4e/Talleres/Taller_GAIRA_Modelos_3D.pdf): Introducción a MDT/MDE, carga y visualización en QGIS, generación de bloques-diagrama y flujo básico para publicar modelos 3D (Sketchfab). Incluye preguntas guía y ejercicios.
 
-2. [Taller_GAIRA_YOLOv8](https://github.com/sergioGarcia91/GAIRA_UIS_2025/blob/44e19f7e679fb271faf16303fe8c8ed57d226aa0/Taller_GAIRA_YOLOv8.pdf): Análisis comparativo de modelos YOLOv8 (datasets, predicciones, limitaciones y mejoras), trabajo por equipos y entrega en PPT. Propone actividades de inferencia y discusión crítica sobre el uso de IA en geociencias.
+2. [Taller_GAIRA_YOLOv8](https://github.com/sergioGarcia91/GAIRA_UIS_2025/blob/a2e59634daeb38f908f73b78beaf9ead37120c4e/Talleres/Taller_GAIRA_YOLOv8.pdf): Análisis comparativo de modelos YOLOv8 (datasets, predicciones, limitaciones y mejoras), trabajo por equipos y entrega en PPT. Propone actividades de inferencia y discusión crítica sobre el uso de IA en geociencias.
+
+3. [Taller_GAIRA_Tipo_de_Rocas](https://github.com/sergioGarcia91/GAIRA_UIS_2025/blob/a2e59634daeb38f908f73b78beaf9ead37120c4e/Talleres/Taller_GAIRA_Tipo_de_Rocas.pdf): Comparación y clasificación macroscópica de rocas ígneas, sedimentarias y metamórficas mediante modelos 3D (Sketchfab) y fósiles. Entregable: PPT con capturas anotadas y justificación de evidencias.
 
 ---
 
