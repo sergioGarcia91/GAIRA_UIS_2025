@@ -9,6 +9,7 @@
 - :scroll: [Descripción](#descripcion)
 - :desktop_computer: [Notebooks](#notebooks)
 - :man_teacher: [Talleres](#talleres)
+- :floppy_disk: [Manuales](#manuales)
 - :mirror_ball: [Modelos 3D](#modelos_3d)
 - :pray: [Agradecimientos](#agradecimientos)
 
@@ -73,6 +74,17 @@ Se incluyen dos talleres introductorios (formato PDF) para complementar los note
 2. [Taller_GAIRA_YOLOv8](https://github.com/sergioGarcia91/GAIRA_UIS_2025/blob/a2e59634daeb38f908f73b78beaf9ead37120c4e/Talleres/Taller_GAIRA_YOLOv8.pdf): Análisis comparativo de modelos YOLOv8 (datasets, predicciones, limitaciones y mejoras), trabajo por equipos y entrega en PPT. Propone actividades de inferencia y discusión crítica sobre el uso de IA en geociencias.
 
 3. [Taller_GAIRA_Tipo_de_Rocas](https://github.com/sergioGarcia91/GAIRA_UIS_2025/blob/a2e59634daeb38f908f73b78beaf9ead37120c4e/Talleres/Taller_GAIRA_Tipo_de_Rocas.pdf): Comparación y clasificación macroscópica de rocas ígneas, sedimentarias y metamórficas mediante modelos 3D (Sketchfab) y fósiles. Entregable: PPT con capturas anotadas y justificación de evidencias.
+
+---
+<a id="manuales"></a>
+## :floppy_disk: Manuales
+
+Se realizaron dos manuales:
+
+1. [Manual_Captura_Fotografia](https://github.com/sergioGarcia91/GAIRA_UIS_2025/blob/4f9c49aa102485766217fc9ad66ed30a94742a13/Manuales/Manual_Captura_Fotografia.pdf): Guía para la toma de fotografías de la muestra, orientada a obtener imágenes adecuadas para fotogrametría.
+
+2. [Manual_Modelos_3D](https://github.com/sergioGarcia91/GAIRA_UIS_2025/blob/4f9c49aa102485766217fc9ad66ed30a94742a13/Manuales/Manual_Modelos_3D.pdf): Guía paso a paso para generar el modelo 3D en Agisoft Metashape, incluyendo máscaras, marcadores, orientación, nube densa, malla, textura y escalado.
+
 
 ---
 
